@@ -30,4 +30,4 @@ The project was developed as an initial prototype to demonstrate the proposed so
 ## Demo
 A demonstration video of the ReMotion prototype is available in this repository:
 
-[▶ View ReMotion Demo](./ReMotion-Demo.MP4)
+https://drive.google.com/file/d/184Bk2ex0N5jzJfXBlkm1XsKDWoICkkQ9/view?usp=drivesdk
